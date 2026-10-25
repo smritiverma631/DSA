@@ -1,5 +1,5 @@
 /*
- * DATE: 25/10/2026
+ * DATE: 19/10/2026
  *
  * PROBLEM LINK: https://www.geeksforgeeks.org/problems/prime-number2314/1
  * PROBLEM STATEMENT:Prime number
