@@ -1,5 +1,5 @@
 /*
- * DATE: 20/10/2026
+ * DATE: 16/10/2026
  *
  * PROBLEM LINK: https://www.geeksforgeeks.org/problems/gcd-of-two-numbers3459/1
  * PROBLEM STATEMENT:GCD of two numbers using C++
