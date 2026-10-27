@@ -1,5 +1,5 @@
 /*
- * DATE: 22/10/2026
+ * DATE: 19/10/2026
  *
  * PROBLEM LINK: https://www.hackerrank.com/challenges/arrays-ds/problem?isFullScreen=true
  * PROBLEM STATEMENT: Reverse an array of integers.
