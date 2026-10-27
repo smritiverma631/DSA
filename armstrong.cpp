@@ -1,5 +1,5 @@
 /*
- * DATE: 20/10/2026
+ * DATE: 15/10/2026
  *
  * PROBLEM LINK:https://www.geeksforgeeks.org/problems/armstrong-numbers2727/1 
  * PROBLEM STATEMENT:Armstrong Number using C++
