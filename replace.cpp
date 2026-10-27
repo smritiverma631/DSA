@@ -1,5 +1,5 @@
 /*
- * DATE: 22/10/2026
+ * DATE: 18/10/2026
  *
  * PROBLEM LINK: https://www.geeksforgeeks.org/problems/replace-all-0s-with-5/1
  * PROBLEM STATEMENT:Replace all 0's with 5's in an input integer
